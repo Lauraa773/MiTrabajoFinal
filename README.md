@@ -23,7 +23,7 @@ calcular retornos esperados y modelar actividades como objetos.
 
 ## Enlaces
 Repositorio GitHub: https://github.com/Lauraa773/MiTrabajoFinal
-Aplicación en Streamlit Cloud: 
+Aplicación en Streamlit Cloud: https://mitrabajofinal-lauracoronelvelasquez.streamlit.app/
 
 ## Autor
 Laura Fabiana Coronel Velasquez
