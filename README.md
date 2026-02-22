@@ -22,8 +22,8 @@ calcular retornos esperados y modelar actividades como objetos.
 2. Ejecutar: streamlit run app.py
 
 ## Enlaces
-Repositorio GitHub: https://github.com/Lauraa773/MiTrabajoFinal
-Aplicación en Streamlit Cloud: https://mitrabajofinal-lauracoronelvelasquez.streamlit.app/
+- Repositorio GitHub: https://github.com/Lauraa773/MiTrabajoFinal
+- Aplicación en Streamlit Cloud: https://mitrabajofinal-lauracoronelvelasquez.streamlit.app/
 
 ## Autor
 Laura Fabiana Coronel Velasquez
